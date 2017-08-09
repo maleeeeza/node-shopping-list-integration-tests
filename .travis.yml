@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: yg/l/2yYnInzEZQpWJycx1nEZuoqIvg5B0mrUfo5P3tpxli9YizHrc9vMsJwBty8AV6JnEHEaL1CKLw2CcM298ls7DN3NUKHRES7CogXPHT/MatWriDwIBdzLYe0BxpLlbEDTOM/ixryG+7DdSo0BQxD8z2zioXboFCEhiWaF0BnE8dzcMOhR/d1+AB6THtpH9B3EAhTX/FLSTpbhYOmFuds8XwVHVrMydL72ht2P+9dqM+sj7HJogIhIuK4YsJ620Qb4mImhXp697i8njbKu8of+TCsAzoUdQtO7LYiX09ZnBc+I62H3ZmRht+zWwdtZhGb27S/o1H+p0tjSvAe+kZU1ocGKbB9LlKX8xiv3qeTeyuk/xM+0bMZmt6sL1wRXV9ie0Yua2uKN9sgmEGtzcI/paw4UeJ6+0LzE/Zt9x0X5ZjL4wUEAx07km7J/YYglM7Yjs0ibhuLvcDGN6R9QwWOaDDG0vrn4Nb2JiYrctNtQ4QChrPyWXAFheyvlui2yDhNtdtoawNUpn05z6NNrnnSaTWkEslZ7XmtrULSEF6FqAGQIz7ldxQk2e1GGfl/duNM2jBo/X1I01T7EkuBy8nKoxlZWSg7Ml90b+MYC0knlY2bczORqhp97sHssvA4GtqLJdPEryvVt5aGe4ZYK43EAgIODIOLhtD2uGETLg8=
-  app: https://safe-spire-16088.herokuapp.com/
+  app: safe-spire-16088
   on:
     repo: maleeeeza/node-shopping-list-integration-tests
